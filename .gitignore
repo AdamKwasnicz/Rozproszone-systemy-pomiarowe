@@ -1,0 +1,15 @@
+# Sekrety - nigdy nie commituj
+.env
+esp32/include/secrets.h
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PlatformIO
+esp32/.pio/
+esp32/.vscode/
+
+# VS Code
+.vscode/
